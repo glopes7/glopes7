@@ -1,10 +1,10 @@
  ## Sejam bem vindos!
  > ##### Me chamo, Gustavo Lopes!
 
-- Estudo Análise e Desenvolvimento de Sistemas na Universidade Norte do Paraná (UNOPAR) - Açailândia- MA.
+* Estudo Análise e Desenvolvimento de Sistemas na Universidade Norte do Paraná (UNOPAR) - Açailândia- MA.
 * Programo em: JavaScript, TypeScript e C#.
-+ FrameWorks: ReactTs, Js e Unity.
-+ Em constante aprendizado
+* FrameWorks: ReactTs, Js e Unity.
+* Em constante aprendizado
 
 <div>
 <a href="https://github.com/glopes7">
