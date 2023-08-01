@@ -4,4 +4,4 @@
 * Backend: SQLite, MySQL, PostgreSQL.
 * Em constante aprendizado
 * 
-<a href="https://instagram.com/gustavodsl_14/ "target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gusttavodsl)
