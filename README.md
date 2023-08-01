@@ -13,7 +13,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glopes7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 ## Contatos:
-<div>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gusttavodsl)!
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-lopes-45a2ab210)
-</div>
+
