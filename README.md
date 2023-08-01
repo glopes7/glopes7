@@ -1,12 +1,10 @@
-@@ -1,9 +1,10 @@
  ## Sejam bem vindos!
  > ##### Me chamo, Gustavo Lopes!
 
 * Estudo Análise e Desenvolvimento de Sistemas na Universidade Norte do Paraná (UNOPAR) - Açailândia- MA.
 * Programo em: JavaScript, TypeScript e C#.
-* FrameWorks: ReactTs, Js, NextJs e Unity.
-* FrameWorks: ReactJs, Ts, NextJs e Unity.
-* Backend: Prisma, MySQL.
+* FrameWorks: ReactTs, ReactJs, NextJs, NestJS e Unity.
+* Backend: Prisma, MySQL PostgreSQL.
 * Em constante aprendizado
 
 <div>
@@ -16,7 +14,6 @@
 </div>
 ## Contatos:
 <div>
-<a href="https://instagram.com/gustavodsl_14" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:gustavoclash3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gustavo-lopes-45a2ab210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gusttavodsl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-lopes-45a2ab210)
 </div>
