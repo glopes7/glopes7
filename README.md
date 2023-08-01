@@ -4,7 +4,7 @@
 * Estudo Análise e Desenvolvimento de Sistemas na Universidade Norte do Paraná (UNOPAR) - Açailândia- MA.
 * Programo em: JavaScript, TypeScript e C#.
 * FrameWorks: ReactJs, Ts, NextJs e Unity.
-* Backend: Prisma, MySQL.
+* Backend: Prisma, MySQL, PostgreSQL.
 * Em constante aprendizado
 
 <div>
