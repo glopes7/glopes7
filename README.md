@@ -1,7 +1,7 @@
  ## Sejam Bem Vindos!
  > ##### Me chamo, Gustavo Lopes!
 
-* Estudo Análise e Desenvolvimento de Sistemas na Universidade Norte do Paraná (UNOPAR) - Açailândia- MA.
+* Estudo Análise e Desenvolvimento de Sistemas na Universidade Norte do Paraná (UNOPAR)
 * Programo em: JavaScript, TypeScript e C#.
 * FrameWorks: ReactTs, ReactJs, NextJs, NestJS e Unity.
 * Backend: Prisma, MySQL PostgreSQL.
